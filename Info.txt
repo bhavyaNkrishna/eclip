@@ -1,1 +1,11 @@
 https://devchild.be/en/gitflow-in-five-mins/
+https://forum.shakacode.com/t/git-flow-vs-feature-branches/169
+https://social.msdn.microsoft.com/Forums/sqlserver/en-US/d52ed34d-0687-432b-be6b-2ed180e20acc/general-branching-and-merging-strategies?forum=tfsgeneral
+https://forum.red-gate.com/discussion/84610/need-branching-strategy-advice
+https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow
+
+
+git branching strategy inurl:forum|viewthread|showthread|viewtopic|showtopic|"index.php?topic" | intext:"reading this topic"|"next thread"|"next topic"|"send private message"
+
+
+https://arstechnica.com/civis/viewtopic.php?f=20&t=1417041
