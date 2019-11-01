@@ -9,3 +9,15 @@ git branching strategy inurl:forum|viewthread|showthread|viewtopic|showtopic|"in
 
 
 https://arstechnica.com/civis/viewtopic.php?f=20&t=1417041
+
+https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf
+https://docs.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops
+https://docs.microsoft.com/en-us/azure/devops/migrate/phase-features-with-feature-flags?view=azure-devops&viewFallbackFrom=vsts
+https://github.com/ingydotnet/git-subrepo#readme
+https://nvie.com/posts/a-successful-git-branching-model/
+https://www.reddit.com/r/devops/comments/bdlfbp/git_branching_strategy/
+https://speakerdeck.com/tdpauw/xpdays-ukraine-2017-feature-branching-is-evil?slide=34
+https://docs.google.com/presentation/d/1mIJCnjtufRk8MXS7FZ0SC9H4rmB860V1q8zTBd8L0ho/edit#slide=id.g3cb2cd03e2_0_26
+https://www.reddit.com/r/git/comments/3g2u10/trunk_based_development_vs_featuretopic_branching/
+https://www.endoflineblog.com/gitflow-considered-harmful
+https://medium.com/p/30d0aaee7bf/responses/show
