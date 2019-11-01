@@ -21,3 +21,8 @@ https://docs.google.com/presentation/d/1mIJCnjtufRk8MXS7FZ0SC9H4rmB860V1q8zTBd8L
 https://www.reddit.com/r/git/comments/3g2u10/trunk_based_development_vs_featuretopic_branching/
 https://www.endoflineblog.com/gitflow-considered-harmful
 https://medium.com/p/30d0aaee7bf/responses/show
+https://hackernoon.com/trunk-based-development-vs-git-flow-b1b23044dfb
+https://paulhammant.com/2019/06/11/monorepos-vs-megarepos/
+https://www.integralist.co.uk/posts/github-workflow/
+https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful/
+https://learngitbranching.js.org
